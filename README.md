@@ -37,15 +37,7 @@ Talking about Personal Stuffs:
 
 ![](https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20Developer;Backend%20Engineer;Frontend%20Expert;React%20Master;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
 
-<div>
-    <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=bcExpt1123.bcExpt1123" />
-    <img align="right" src="https://img.shields.io/github/followers/bcExpt1123?label=Follow&style=social" />
-</div>
-<h1 align="center"></h1>
- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=bcExpt1123&theme=github&count_private=true" /> 
-<h1 align="center"></h1>
-</br>
-<h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
+<h2 font-weight="bold" style="display: block; text-align: center; margin-top: 80px;">My Top Skills</h2>
 <table>
     <tr>
         <td><img src="https://img.icons8.com/ios/452/solidity.png" title="Solidity" width="100" alt="Solidity"></td>
