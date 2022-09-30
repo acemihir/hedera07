@@ -3,21 +3,23 @@
     <img src="https://github-profile-trophy.vercel.app/?username=bcExpt1123&row=1&column=7&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
 
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Welcome to my profile.<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Welcome to My profile.<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <!-- Main developer of [Scouting](https://scoutinglab.pro/) | [XPendpay](http://xpendpay.com//) | [SPS Cloud](https://spscloud.io/) -->
 
 Talking about Personal Stuffs:
 
 - I'm a rich experienced full-stack developer for large projects and ready to start your project anytime.
-- Enterprise application development and support
-- <b>Blockchain</b> : Smart contract | Solidity | ERC-20 | NFT | Rust | Dapp | Defi | Dao | Dex | Ethereum | BSC | Polygon | Solana
-- <b>Front-end</b> : Reactjs | Next.js | Vuejs | TypeScript | TailWind CSS | Material | Styled Components | Bootstrap | Antd 
-- <b>Back-end</b> : Node | Express | Django | ASP.NET | Laravel | CodeIgniter
+- Enterprise application development and support like <b>Metaverse</b> : WebGL + Blockchain + Frontend/Backend 
+- <b>Blockchain</b> : Ethereum | BSC | Polygon | Solana | Near | Hedera -  Smart contract | Dapp | DeFi | Dex | GameFi
+- <b>Front-end</b> : Reactjs | Next.js | Vuejs | Angular |  Svelte | JS/TS | TailWind CSS | Material | Styled Components | Bootstrap | Antd 
+- <b>Back-end</b> : Node | Express | Django | ASP.NET | Laravel | CodeIgniter | Nest
+- <b>3D</b> : AR | VR | XR - Unity | Blender | Three.js | D3.js
 - <b>Mobile</b> : React-Native | Flutter | Ionic
 - <b>Database</b> : Mysql | MongoDB | PostgreSQL | Firebase | Firestore
-- <b>Others</b> : Docker | Docker-Compose | Swagger | Devops | Cicd | QA 
+- <b>Others</b> : Docker | Docker-Compose | Swagger | Devops | Cicd | QA | GraphQL
 - Git, Github, BitBucket, Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Heroku, Jira, Trello, Pusher Digital-Ocean, Github Action, and so on.
+- Agile Methodology, Scrum Meeting
 
 <i>LOOKING FOR OPPORTUNITY TO CONTRIBUTE TO PROFESSIONAL PROJECTS.</i>
 <div align="center">
